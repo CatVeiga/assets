@@ -1,4 +1,7 @@
+This repo, was made for upload my own assets, made by me.
+
 # assets
+
 Here are the assets that I've made for the most of my projects. If you want to use them please let me know, by adding a comment or create a pull request.
 
 ## Downloading 
